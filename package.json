@@ -35,7 +35,7 @@
   "devDependencies": {
     "@angular/cli": "1.6.5",
     "@angular/compiler-cli": "^5.0.0",
-    "@types/hammerjs": "^2.0.34",
+    "@types/hammerjs": "2.0.35",
     "@types/jasmine": "^2.5.47",
     "@types/node": "^9.3.0",
     "codelyzer": "~4.1.0",
